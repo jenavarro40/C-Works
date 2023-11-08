@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\Assigment\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\Hp Blanco\source\repos\Assigment\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\Hp Blanco\source\repos\Assigment\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\Hp Blanco\source\repos\Assigment\Exercise2\obj\Debug\Exercise2.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\Assigment\Exercise2\obj\Debug\Exercise2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\Assigment\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\Assigment\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\Hp Blanco\source\repos\Assigment\Exercise2\obj\Debug\Exercise2.pdb

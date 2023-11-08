@@ -1,0 +1,11 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\juegodelprofesor\bin\Debug\juegodelprofesor.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\juegodelprofesor\bin\Debug\juegodelprofesor.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\juegodelprofesor\bin\Debug\juegodelprofesor.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\juegodelprofesor\obj\Debug\juegodelprofesor.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\juegodelprofesor\obj\Debug\juegodelprofesor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\juegodelprofesor\obj\Debug\juegodelprofesor.Form1.resources
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\juegodelprofesor\obj\Debug\juegodelprofesor.Properties.Resources.resources
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\juegodelprofesor\obj\Debug\juegodelprofesor.csproj.GenerateResource.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\juegodelprofesor\obj\Debug\juegodelprofesor.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\juegodelprofesor\obj\Debug\juegodelprofesor.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\juegodelprofesor\obj\Debug\juegodelprofesor.pdb

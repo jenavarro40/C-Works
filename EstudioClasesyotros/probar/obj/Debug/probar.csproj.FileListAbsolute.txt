@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\probar\obj\Debug\probar.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\probar\obj\Debug\probar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\probar\obj\Debug\probar.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\probar\bin\Debug\probar.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\probar\bin\Debug\probar.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\probar\bin\Debug\probar.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\probar\obj\Debug\probar.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\probar\obj\Debug\probar.pdb

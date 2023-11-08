@@ -1,0 +1,11 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\tictactoc again\bin\Debug\tictactoc again.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\tictactoc again\bin\Debug\tictactoc again.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\tictactoc again\bin\Debug\tictactoc again.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\tictactoc again\obj\Debug\tictactoc again.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\tictactoc again\obj\Debug\tictactoc again.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\tictactoc again\obj\Debug\tictactoc_again.triqui.resources
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\tictactoc again\obj\Debug\tictactoc_again.Properties.Resources.resources
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\tictactoc again\obj\Debug\tictactoc again.csproj.GenerateResource.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\tictactoc again\obj\Debug\tictactoc again.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\tictactoc again\obj\Debug\tictactoc again.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\tictactoc again\obj\Debug\tictactoc again.pdb

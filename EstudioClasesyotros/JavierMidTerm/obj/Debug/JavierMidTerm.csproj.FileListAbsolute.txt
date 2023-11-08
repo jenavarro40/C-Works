@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\JavierMidTerm\bin\Debug\JavierMidTerm.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\JavierMidTerm\bin\Debug\JavierMidTerm.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\JavierMidTerm\bin\Debug\JavierMidTerm.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\JavierMidTerm\obj\Debug\JavierMidTerm.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\JavierMidTerm\obj\Debug\JavierMidTerm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\JavierMidTerm\obj\Debug\JavierMidTerm.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\JavierMidTerm\obj\Debug\JavierMidTerm.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\JavierMidTerm\obj\Debug\JavierMidTerm.pdb

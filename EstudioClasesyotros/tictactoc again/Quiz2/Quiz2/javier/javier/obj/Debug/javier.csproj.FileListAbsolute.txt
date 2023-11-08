@@ -1,0 +1,11 @@
+C:\Users\300368873\Documents\Quiz2\javier\javier\bin\Debug\javier.exe.config
+C:\Users\300368873\Documents\Quiz2\javier\javier\bin\Debug\javier.exe
+C:\Users\300368873\Documents\Quiz2\javier\javier\bin\Debug\javier.pdb
+C:\Users\300368873\Documents\Quiz2\javier\javier\obj\Debug\javier.csproj.AssemblyReference.cache
+C:\Users\300368873\Documents\Quiz2\javier\javier\obj\Debug\javier.csproj.SuggestedBindingRedirects.cache
+C:\Users\300368873\Documents\Quiz2\javier\javier\obj\Debug\javier.Form1.resources
+C:\Users\300368873\Documents\Quiz2\javier\javier\obj\Debug\javier.Properties.Resources.resources
+C:\Users\300368873\Documents\Quiz2\javier\javier\obj\Debug\javier.csproj.GenerateResource.cache
+C:\Users\300368873\Documents\Quiz2\javier\javier\obj\Debug\javier.csproj.CoreCompileInputs.cache
+C:\Users\300368873\Documents\Quiz2\javier\javier\obj\Debug\javier.exe
+C:\Users\300368873\Documents\Quiz2\javier\javier\obj\Debug\javier.pdb

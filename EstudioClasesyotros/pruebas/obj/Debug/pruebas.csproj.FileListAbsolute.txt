@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\pruebas\obj\Debug\pruebas.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\pruebas\obj\Debug\pruebas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\pruebas\obj\Debug\pruebas.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\pruebas\bin\Debug\pruebas.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\pruebas\bin\Debug\pruebas.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\pruebas\bin\Debug\pruebas.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\pruebas\obj\Debug\pruebas.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\pruebas\obj\Debug\pruebas.pdb

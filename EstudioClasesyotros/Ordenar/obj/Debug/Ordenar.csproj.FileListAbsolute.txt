@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Ordenar\obj\Debug\Ordenar.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Ordenar\obj\Debug\Ordenar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Ordenar\obj\Debug\Ordenar.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Ordenar\bin\Debug\Ordenar.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Ordenar\bin\Debug\Ordenar.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Ordenar\bin\Debug\Ordenar.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Ordenar\obj\Debug\Ordenar.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Ordenar\obj\Debug\Ordenar.pdb

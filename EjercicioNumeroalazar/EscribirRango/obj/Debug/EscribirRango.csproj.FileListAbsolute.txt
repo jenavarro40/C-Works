@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\EscribirRango\obj\Debug\EscribirRango.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\EscribirRango\obj\Debug\EscribirRango.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\EscribirRango\obj\Debug\EscribirRango.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\EscribirRango\bin\Debug\EscribirRango.exe.config
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\EscribirRango\bin\Debug\EscribirRango.exe
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\EscribirRango\bin\Debug\EscribirRango.pdb
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\EscribirRango\obj\Debug\EscribirRango.exe
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\EscribirRango\obj\Debug\EscribirRango.pdb

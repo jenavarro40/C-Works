@@ -1,0 +1,11 @@
+C:\Users\Hp Blanco\source\repos\Assigment3\RectanguleCheck\bin\Debug\RectanguleCheck.exe.config
+C:\Users\Hp Blanco\source\repos\Assigment3\RectanguleCheck\bin\Debug\RectanguleCheck.exe
+C:\Users\Hp Blanco\source\repos\Assigment3\RectanguleCheck\bin\Debug\RectanguleCheck.pdb
+C:\Users\Hp Blanco\source\repos\Assigment3\RectanguleCheck\obj\Debug\RectanguleCheck.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\Assigment3\RectanguleCheck\obj\Debug\RectanguleCheck.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\Assigment3\RectanguleCheck\obj\Debug\RectanguleCheck.Form1.resources
+C:\Users\Hp Blanco\source\repos\Assigment3\RectanguleCheck\obj\Debug\RectanguleCheck.Properties.Resources.resources
+C:\Users\Hp Blanco\source\repos\Assigment3\RectanguleCheck\obj\Debug\RectanguleCheck.csproj.GenerateResource.cache
+C:\Users\Hp Blanco\source\repos\Assigment3\RectanguleCheck\obj\Debug\RectanguleCheck.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\Assigment3\RectanguleCheck\obj\Debug\RectanguleCheck.exe
+C:\Users\Hp Blanco\source\repos\Assigment3\RectanguleCheck\obj\Debug\RectanguleCheck.pdb

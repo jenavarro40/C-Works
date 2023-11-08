@@ -1,0 +1,11 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\estudiodelistbox\bin\Debug\estudiodelistbox.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\estudiodelistbox\bin\Debug\estudiodelistbox.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\estudiodelistbox\bin\Debug\estudiodelistbox.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\estudiodelistbox\obj\Debug\estudiodelistbox.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\estudiodelistbox\obj\Debug\estudiodelistbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\estudiodelistbox\obj\Debug\estudiodelistbox.Form1.resources
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\estudiodelistbox\obj\Debug\estudiodelistbox.Properties.Resources.resources
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\estudiodelistbox\obj\Debug\estudiodelistbox.csproj.GenerateResource.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\estudiodelistbox\obj\Debug\estudiodelistbox.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\estudiodelistbox\obj\Debug\estudiodelistbox.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\estudiodelistbox\obj\Debug\estudiodelistbox.pdb

@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\leerachivos\obj\Debug\leerachivos.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\leerachivos\obj\Debug\leerachivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\leerachivos\obj\Debug\leerachivos.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\leerachivos\bin\Debug\leerachivos.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\leerachivos\bin\Debug\leerachivos.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\leerachivos\bin\Debug\leerachivos.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\leerachivos\obj\Debug\leerachivos.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\leerachivos\obj\Debug\leerachivos.pdb

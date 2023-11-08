@@ -1,0 +1,11 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\prueba\obj\Debug\prueba.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\prueba\obj\Debug\prueba.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\prueba\obj\Debug\prueba.Form1.resources
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\prueba\obj\Debug\prueba.Properties.Resources.resources
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\prueba\obj\Debug\prueba.csproj.GenerateResource.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\prueba\obj\Debug\prueba.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\prueba\bin\Debug\prueba.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\prueba\bin\Debug\prueba.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\prueba\bin\Debug\prueba.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\prueba\obj\Debug\prueba.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\prueba\obj\Debug\prueba.pdb

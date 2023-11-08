@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\rainfall\obj\Debug\rainfall.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\rainfall\obj\Debug\rainfall.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\rainfall\obj\Debug\rainfall.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\rainfall\bin\Debug\rainfall.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\rainfall\bin\Debug\rainfall.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\rainfall\bin\Debug\rainfall.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\rainfall\obj\Debug\rainfall.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\rainfall\obj\Debug\rainfall.pdb

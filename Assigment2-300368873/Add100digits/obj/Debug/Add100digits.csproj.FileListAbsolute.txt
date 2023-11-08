@@ -1,0 +1,16 @@
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\Add100digits\bin\Debug\Add100digits.exe.config
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\Add100digits\bin\Debug\Add100digits.exe
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\Add100digits\bin\Debug\Add100digits.pdb
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\Add100digits\obj\Debug\Add100digits.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\Add100digits\obj\Debug\Add100digits.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\Add100digits\obj\Debug\Add100digits.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\Add100digits\obj\Debug\Add100digits.exe
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\Add100digits\obj\Debug\Add100digits.pdb
+C:\Users\Hp Blanco\source\repos\Assigment2-300368873\Add100digits\bin\Debug\Add100digits.exe.config
+C:\Users\Hp Blanco\source\repos\Assigment2-300368873\Add100digits\bin\Debug\Add100digits.exe
+C:\Users\Hp Blanco\source\repos\Assigment2-300368873\Add100digits\bin\Debug\Add100digits.pdb
+C:\Users\Hp Blanco\source\repos\Assigment2-300368873\Add100digits\obj\Debug\Add100digits.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\Assigment2-300368873\Add100digits\obj\Debug\Add100digits.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\Assigment2-300368873\Add100digits\obj\Debug\Add100digits.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\Assigment2-300368873\Add100digits\obj\Debug\Add100digits.exe
+C:\Users\Hp Blanco\source\repos\Assigment2-300368873\Add100digits\obj\Debug\Add100digits.pdb

@@ -1,0 +1,11 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Ejercicio6Chapter10\bin\Debug\Ejercicio6Chapter6.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Ejercicio6Chapter10\bin\Debug\Ejercicio6Chapter6.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Ejercicio6Chapter10\bin\Debug\Ejercicio6Chapter6.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Ejercicio6Chapter10\obj\Debug\Ejercicio6Chapter10.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Ejercicio6Chapter10\obj\Debug\Ejercicio6Chapter10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Ejercicio6Chapter10\obj\Debug\Ejercicio6Chapter10.Form1.resources
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Ejercicio6Chapter10\obj\Debug\Ejercicio6Chapter6.Properties.Resources.resources
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Ejercicio6Chapter10\obj\Debug\Ejercicio6Chapter10.csproj.GenerateResource.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Ejercicio6Chapter10\obj\Debug\Ejercicio6Chapter10.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Ejercicio6Chapter10\obj\Debug\Ejercicio6Chapter6.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Ejercicio6Chapter10\obj\Debug\Ejercicio6Chapter6.pdb

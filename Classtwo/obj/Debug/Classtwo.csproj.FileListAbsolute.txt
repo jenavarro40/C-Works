@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\Classtwo\bin\Debug\Classtwo.exe.config
+C:\Users\Hp Blanco\source\repos\Classtwo\bin\Debug\Classtwo.exe
+C:\Users\Hp Blanco\source\repos\Classtwo\bin\Debug\Classtwo.pdb
+C:\Users\Hp Blanco\source\repos\Classtwo\obj\Debug\Classtwo.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\Classtwo\obj\Debug\Classtwo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\Classtwo\obj\Debug\Classtwo.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\Classtwo\obj\Debug\Classtwo.exe
+C:\Users\Hp Blanco\source\repos\Classtwo\obj\Debug\Classtwo.pdb

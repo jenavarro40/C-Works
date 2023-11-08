@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\area\bin\Debug\area.exe.config
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\area\bin\Debug\area.exe
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\area\bin\Debug\area.pdb
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\area\obj\Debug\area.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\area\obj\Debug\area.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\area\obj\Debug\area.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\area\obj\Debug\area.exe
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\area\obj\Debug\area.pdb

@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ArrayCodigosdeArea\obj\Debug\ArrayCodigosdeArea.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ArrayCodigosdeArea\obj\Debug\ArrayCodigosdeArea.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ArrayCodigosdeArea\obj\Debug\ArrayCodigosdeArea.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ArrayCodigosdeArea\bin\Debug\ArrayCodigosdeArea.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ArrayCodigosdeArea\bin\Debug\ArrayCodigosdeArea.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ArrayCodigosdeArea\bin\Debug\ArrayCodigosdeArea.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ArrayCodigosdeArea\obj\Debug\ArrayCodigosdeArea.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ArrayCodigosdeArea\obj\Debug\ArrayCodigosdeArea.pdb

@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\CalculateCarpet\obj\Debug\CalculateCarpet.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\CalculateCarpet\obj\Debug\CalculateCarpet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\CalculateCarpet\obj\Debug\CalculateCarpet.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\CalculateCarpet\bin\Debug\CalculateCarpet.exe.config
+C:\Users\Hp Blanco\source\repos\CalculateCarpet\bin\Debug\CalculateCarpet.exe
+C:\Users\Hp Blanco\source\repos\CalculateCarpet\bin\Debug\CalculateCarpet.pdb
+C:\Users\Hp Blanco\source\repos\CalculateCarpet\obj\Debug\CalculateCarpet.exe
+C:\Users\Hp Blanco\source\repos\CalculateCarpet\obj\Debug\CalculateCarpet.pdb

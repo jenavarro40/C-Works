@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\BinaryProject\obj\Debug\BinaryProject.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\BinaryProject\obj\Debug\BinaryProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\BinaryProject\obj\Debug\BinaryProject.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\BinaryProject\bin\Debug\BinaryProject.exe.config
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\BinaryProject\bin\Debug\BinaryProject.exe
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\BinaryProject\bin\Debug\BinaryProject.pdb
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\BinaryProject\obj\Debug\BinaryProject.exe
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\BinaryProject\obj\Debug\BinaryProject.pdb

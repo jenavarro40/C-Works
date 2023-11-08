@@ -1,0 +1,28 @@
+your piano:
+102,Yamaha,YU30S,13900,2012
+Your payment:
+513.1875
+month 0payment:513.1875
+month 1payment:513.1875
+month 2payment:513.1875
+month 3payment:513.1875
+month 4payment:513.1875
+month 5payment:513.1875
+month 6payment:513.1875
+month 7payment:513.1875
+month 8payment:513.1875
+month 9payment:513.1875
+month 10payment:513.1875
+month 11payment:513.1875
+month 12payment:513.1875
+month 13payment:513.1875
+month 14payment:513.1875
+month 15payment:513.1875
+month 16payment:513.1875
+month 17payment:513.1875
+month 18payment:513.1875
+month 19payment:513.1875
+month 20payment:513.1875
+month 21payment:513.1875
+month 22payment:513.1875
+month 23payment:513.1875

@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ejemplolista\obj\Debug\ejemplolista.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ejemplolista\obj\Debug\ejemplolista.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ejemplolista\obj\Debug\ejemplolista.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ejemplolista\bin\Debug\ejemplolista.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ejemplolista\bin\Debug\ejemplolista.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ejemplolista\bin\Debug\ejemplolista.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ejemplolista\obj\Debug\ejemplolista.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ejemplolista\obj\Debug\ejemplolista.pdb

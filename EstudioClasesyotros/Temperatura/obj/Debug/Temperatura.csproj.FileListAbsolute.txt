@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Temperatura\bin\Debug\Temperatura.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Temperatura\bin\Debug\Temperatura.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Temperatura\bin\Debug\Temperatura.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Temperatura\obj\Debug\Temperatura.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Temperatura\obj\Debug\Temperatura.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Temperatura\obj\Debug\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Temperatura\obj\Debug\Temperatura.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Temperatura\obj\Debug\Temperatura.pdb

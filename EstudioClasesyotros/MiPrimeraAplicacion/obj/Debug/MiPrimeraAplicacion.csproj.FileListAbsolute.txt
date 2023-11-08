@@ -1,0 +1,11 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\MiPrimeraAplicacion\bin\Debug\MiPrimeraAplicacion.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\MiPrimeraAplicacion\bin\Debug\MiPrimeraAplicacion.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\MiPrimeraAplicacion\bin\Debug\MiPrimeraAplicacion.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.Form1.resources
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.Properties.Resources.resources
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.csproj.GenerateResource.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.pdb

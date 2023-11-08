@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\RomanosFacil\obj\Debug\RomanosFacil.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\RomanosFacil\obj\Debug\RomanosFacil.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\RomanosFacil\obj\Debug\RomanosFacil.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\RomanosFacil\bin\Debug\RomanosFacil.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\RomanosFacil\bin\Debug\RomanosFacil.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\RomanosFacil\bin\Debug\RomanosFacil.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\RomanosFacil\obj\Debug\RomanosFacil.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\RomanosFacil\obj\Debug\RomanosFacil.pdb

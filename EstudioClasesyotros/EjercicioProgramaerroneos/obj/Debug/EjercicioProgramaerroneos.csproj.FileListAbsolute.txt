@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\EjercicioProgramaerroneos\bin\Debug\EjercicioProgramaerroneos.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\EjercicioProgramaerroneos\bin\Debug\EjercicioProgramaerroneos.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\EjercicioProgramaerroneos\bin\Debug\EjercicioProgramaerroneos.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\EjercicioProgramaerroneos\obj\Debug\EjercicioProgramaerroneos.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\EjercicioProgramaerroneos\obj\Debug\EjercicioProgramaerroneos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\EjercicioProgramaerroneos\obj\Debug\EjercicioProgramaerroneos.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\EjercicioProgramaerroneos\obj\Debug\EjercicioProgramaerroneos.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\EjercicioProgramaerroneos\obj\Debug\EjercicioProgramaerroneos.pdb

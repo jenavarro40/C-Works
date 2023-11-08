@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\Miprimerprograma\obj\Debug\Miprimerprograma.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\Miprimerprograma\obj\Debug\Miprimerprograma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\Miprimerprograma\obj\Debug\Miprimerprograma.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\Miprimerprograma\bin\Debug\Miprimerprograma.exe.config
+C:\Users\Hp Blanco\source\repos\Miprimerprograma\bin\Debug\Miprimerprograma.exe
+C:\Users\Hp Blanco\source\repos\Miprimerprograma\bin\Debug\Miprimerprograma.pdb
+C:\Users\Hp Blanco\source\repos\Miprimerprograma\obj\Debug\Miprimerprograma.exe
+C:\Users\Hp Blanco\source\repos\Miprimerprograma\obj\Debug\Miprimerprograma.pdb

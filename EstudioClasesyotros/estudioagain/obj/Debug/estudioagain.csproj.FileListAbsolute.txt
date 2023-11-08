@@ -1,0 +1,11 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\estudioagain\bin\Debug\estudioagain.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\estudioagain\bin\Debug\estudioagain.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\estudioagain\bin\Debug\estudioagain.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\estudioagain\obj\Debug\estudioagain.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\estudioagain\obj\Debug\estudioagain.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\estudioagain\obj\Debug\estudioagain.Form1.resources
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\estudioagain\obj\Debug\estudioagain.Properties.Resources.resources
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\estudioagain\obj\Debug\estudioagain.csproj.GenerateResource.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\estudioagain\obj\Debug\estudioagain.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\estudioagain\obj\Debug\estudioagain.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\estudioagain\obj\Debug\estudioagain.pdb

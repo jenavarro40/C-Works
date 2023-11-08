@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\examnestudio\obj\Debug\examnestudio.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\examnestudio\obj\Debug\examnestudio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\examnestudio\obj\Debug\examnestudio.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\examnestudio\bin\Debug\examnestudio.exe.config
+C:\Users\Hp Blanco\source\repos\examnestudio\bin\Debug\examnestudio.exe
+C:\Users\Hp Blanco\source\repos\examnestudio\bin\Debug\examnestudio.pdb
+C:\Users\Hp Blanco\source\repos\examnestudio\obj\Debug\examnestudio.exe
+C:\Users\Hp Blanco\source\repos\examnestudio\obj\Debug\examnestudio.pdb

@@ -1,0 +1,16 @@
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\PrintShape\bin\Debug\PrintShape.exe.config
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\PrintShape\bin\Debug\PrintShape.exe
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\PrintShape\bin\Debug\PrintShape.pdb
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\PrintShape\obj\Debug\PrintShape.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\PrintShape\obj\Debug\PrintShape.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\PrintShape\obj\Debug\PrintShape.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\PrintShape\obj\Debug\PrintShape.exe
+C:\Users\Hp Blanco\source\repos\asigment2-300368873\PrintShape\obj\Debug\PrintShape.pdb
+C:\Users\Hp Blanco\source\repos\Assigment2-300368873\PrintShape\bin\Debug\PrintShape.exe.config
+C:\Users\Hp Blanco\source\repos\Assigment2-300368873\PrintShape\bin\Debug\PrintShape.exe
+C:\Users\Hp Blanco\source\repos\Assigment2-300368873\PrintShape\bin\Debug\PrintShape.pdb
+C:\Users\Hp Blanco\source\repos\Assigment2-300368873\PrintShape\obj\Debug\PrintShape.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\Assigment2-300368873\PrintShape\obj\Debug\PrintShape.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\Assigment2-300368873\PrintShape\obj\Debug\PrintShape.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\Assigment2-300368873\PrintShape\obj\Debug\PrintShape.exe
+C:\Users\Hp Blanco\source\repos\Assigment2-300368873\PrintShape\obj\Debug\PrintShape.pdb

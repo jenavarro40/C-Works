@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\SalesProgram\obj\Debug\SalesProgram.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\SalesProgram\obj\Debug\SalesProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\SalesProgram\obj\Debug\SalesProgram.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\SalesProgram\bin\Debug\SalesProgram.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\SalesProgram\bin\Debug\SalesProgram.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\SalesProgram\bin\Debug\SalesProgram.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\SalesProgram\obj\Debug\SalesProgram.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\SalesProgram\obj\Debug\SalesProgram.pdb

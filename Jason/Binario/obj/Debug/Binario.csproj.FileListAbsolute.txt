@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\Jason\Binario\bin\Debug\Binario.exe.config
+C:\Users\Hp Blanco\source\repos\Jason\Binario\bin\Debug\Binario.exe
+C:\Users\Hp Blanco\source\repos\Jason\Binario\bin\Debug\Binario.pdb
+C:\Users\Hp Blanco\source\repos\Jason\Binario\obj\Debug\Binario.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\Jason\Binario\obj\Debug\Binario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\Jason\Binario\obj\Debug\Binario.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\Jason\Binario\obj\Debug\Binario.exe
+C:\Users\Hp Blanco\source\repos\Jason\Binario\obj\Debug\Binario.pdb

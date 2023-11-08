@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Incoming\obj\Debug\Incoming.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Incoming\obj\Debug\Incoming.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Incoming\obj\Debug\Incoming.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Incoming\bin\Debug\Incoming.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Incoming\bin\Debug\Incoming.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Incoming\bin\Debug\Incoming.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Incoming\obj\Debug\Incoming.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Incoming\obj\Debug\Incoming.pdb

@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\Operaciones\obj\Debug\Operaciones.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\Operaciones\obj\Debug\Operaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\Operaciones\obj\Debug\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\Operaciones\obj\Debug\Operaciones.pdb

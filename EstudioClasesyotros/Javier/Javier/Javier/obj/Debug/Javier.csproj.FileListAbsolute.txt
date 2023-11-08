@@ -1,0 +1,16 @@
+C:\Users\300368873\Documents\Exam\Javier\Javier\obj\Debug\Javier.csproj.AssemblyReference.cache
+C:\Users\300368873\Documents\Exam\Javier\Javier\obj\Debug\Javier.csproj.SuggestedBindingRedirects.cache
+C:\Users\300368873\Documents\Exam\Javier\Javier\obj\Debug\Javier.csproj.CoreCompileInputs.cache
+C:\Users\300368873\Documents\Exam\Javier\Javier\bin\Debug\Javier.exe.config
+C:\Users\300368873\Documents\Exam\Javier\Javier\bin\Debug\Javier.exe
+C:\Users\300368873\Documents\Exam\Javier\Javier\bin\Debug\Javier.pdb
+C:\Users\300368873\Documents\Exam\Javier\Javier\obj\Debug\Javier.exe
+C:\Users\300368873\Documents\Exam\Javier\Javier\obj\Debug\Javier.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Javier\Javier\Javier\bin\Debug\Javier.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Javier\Javier\Javier\bin\Debug\Javier.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Javier\Javier\Javier\bin\Debug\Javier.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Javier\Javier\Javier\obj\Debug\Javier.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Javier\Javier\Javier\obj\Debug\Javier.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Javier\Javier\Javier\obj\Debug\Javier.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Javier\Javier\Javier\obj\Debug\Javier.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\Javier\Javier\Javier\obj\Debug\Javier.pdb

@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\TicaTacToc\obj\Debug\TicaTacToc.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\TicaTacToc\obj\Debug\TicaTacToc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\TicaTacToc\obj\Debug\TicaTacToc.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\TicaTacToc\bin\Debug\TicaTacToc.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\TicaTacToc\bin\Debug\TicaTacToc.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\TicaTacToc\bin\Debug\TicaTacToc.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\TicaTacToc\obj\Debug\TicaTacToc.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\TicaTacToc\obj\Debug\TicaTacToc.pdb

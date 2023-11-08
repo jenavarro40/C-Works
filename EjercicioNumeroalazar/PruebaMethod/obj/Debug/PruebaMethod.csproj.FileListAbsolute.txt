@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\PruebaMethod\obj\Debug\PruebaMethod.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\PruebaMethod\obj\Debug\PruebaMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\PruebaMethod\obj\Debug\PruebaMethod.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\PruebaMethod\bin\Debug\PruebaMethod.exe.config
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\PruebaMethod\bin\Debug\PruebaMethod.exe
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\PruebaMethod\bin\Debug\PruebaMethod.pdb
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\PruebaMethod\obj\Debug\PruebaMethod.exe
+C:\Users\Hp Blanco\source\repos\EjercicioNumeroalazar\PruebaMethod\obj\Debug\PruebaMethod.pdb

@@ -1,0 +1,11 @@
+C:\Users\Hp Blanco\source\repos\Assigment3\CardGame\obj\Debug\CardGame.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\Assigment3\CardGame\obj\Debug\CardGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\Assigment3\CardGame\obj\Debug\CardGame.GameForm.resources
+C:\Users\Hp Blanco\source\repos\Assigment3\CardGame\obj\Debug\CardGame.Properties.Resources.resources
+C:\Users\Hp Blanco\source\repos\Assigment3\CardGame\obj\Debug\CardGame.csproj.GenerateResource.cache
+C:\Users\Hp Blanco\source\repos\Assigment3\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\Assigment3\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\Hp Blanco\source\repos\Assigment3\CardGame\bin\Debug\CardGame.exe
+C:\Users\Hp Blanco\source\repos\Assigment3\CardGame\bin\Debug\CardGame.pdb
+C:\Users\Hp Blanco\source\repos\Assigment3\CardGame\obj\Debug\CardGame.exe
+C:\Users\Hp Blanco\source\repos\Assigment3\CardGame\obj\Debug\CardGame.pdb

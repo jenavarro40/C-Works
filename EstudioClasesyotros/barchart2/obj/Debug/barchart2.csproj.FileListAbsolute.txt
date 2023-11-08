@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\barchart2\bin\Debug\barchart2.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\barchart2\bin\Debug\barchart2.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\barchart2\bin\Debug\barchart2.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\barchart2\obj\Debug\barchart2.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\barchart2\obj\Debug\barchart2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\barchart2\obj\Debug\barchart2.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\barchart2\obj\Debug\barchart2.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\barchart2\obj\Debug\barchart2.pdb

@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ConsoleApp1\obj\Debug\cursos.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ConsoleApp1\obj\Debug\cursos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ConsoleApp1\obj\Debug\cursos.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

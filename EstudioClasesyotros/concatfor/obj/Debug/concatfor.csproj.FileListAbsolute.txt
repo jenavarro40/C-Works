@@ -1,0 +1,8 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\concatfor\obj\Debug\concatfor.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\concatfor\obj\Debug\concatfor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\concatfor\obj\Debug\concatfor.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\concatfor\bin\Debug\concatfor.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\concatfor\bin\Debug\concatfor.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\concatfor\bin\Debug\concatfor.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\concatfor\obj\Debug\concatfor.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\concatfor\obj\Debug\concatfor.pdb

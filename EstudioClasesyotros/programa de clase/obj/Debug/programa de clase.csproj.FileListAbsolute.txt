@@ -1,0 +1,11 @@
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\programa de clase\bin\Debug\programa de clase.exe.config
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\programa de clase\bin\Debug\programa de clase.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\programa de clase\bin\Debug\programa de clase.pdb
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\programa de clase\obj\Debug\programa de clase.csproj.AssemblyReference.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\programa de clase\obj\Debug\programa de clase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\programa de clase\obj\Debug\programa_de_clase.Form1.resources
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\programa de clase\obj\Debug\programa_de_clase.Properties.Resources.resources
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\programa de clase\obj\Debug\programa de clase.csproj.GenerateResource.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\programa de clase\obj\Debug\programa de clase.csproj.CoreCompileInputs.cache
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\programa de clase\obj\Debug\programa de clase.exe
+C:\Users\Hp Blanco\source\repos\EstudioClasesyotros\programa de clase\obj\Debug\programa de clase.pdb
